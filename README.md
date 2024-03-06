@@ -1,3 +1,3 @@
-# blog
+# Blog
 
 ## my_blog
